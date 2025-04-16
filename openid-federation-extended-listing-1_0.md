@@ -448,6 +448,7 @@ We would like to thank the following individuals for their contributions to this
 
 * Editorial pass on various typos and formatting issues
 * Corrected example incorrectly still using the `entity_statement` query parameter renamed in 01
+* Removed references to the `revoked` parameter
 
 -01
 
