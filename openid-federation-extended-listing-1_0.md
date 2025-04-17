@@ -121,7 +121,7 @@ The endpoint is accessible via the `federation_extended_list_endpoint` URL, whic
 
 ### Response Limits
 
-This endpoint defines the `limit` query parameter, allowing consumers to specify a desired maximum number of entities
+This endpoint defines the `limit` query parameter, allowing consumers to specify a desired maximum number of Entities
 returned in a given response set. However, this number may, in some cases, be impractical or not feasible for the
 issuing Entity to return. To address this, it is RECOMMENDED that implementations define a practical upper limit for the
 response size that can be served. This defined limit MUST be set to a value that ensures if no limit is specified in a
