@@ -190,7 +190,7 @@ JSON object containing the claims specified in the table below.
 
 *Table 2: Top-level attributes included in the Subordinate Entity JSON object returned in the response body*
 
-Deployments MAY define and use additional claims
+Deployments MAY define and use additional claims.
 
 Each JSON object in the returned `immediate_subordinate_entities` array MAY contain claims from the sets defined for
 Entity Statements and metadata in [@!OpenID.Federation] as well as those defined in the table below. Deployments MAY
